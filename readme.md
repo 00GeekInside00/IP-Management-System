@@ -33,6 +33,14 @@ This app has a user friendly command user interface
 ### Web
 Not done yet :(
 ### System internals
+- System is designed to be extendable.
+- IBaseModel is the base class for all models. has some basic methods ready to be used/ overridden.
+
+![Class Diagram](https://i.postimg.cc/FKkQNH6m/class-diagram.png "Class Diagram")
+
+![Screenshot1](https://i.postimg.cc/QtLZtrL7/main-screen.png "interface")
+
+![Screenshot2](https://i.postimg.cc/Bb4WTcnQ/Screenshot.png "interface")
 
 ### installation
 - go to the root directory of the project and run `pip install -r requiremnts.txt`
