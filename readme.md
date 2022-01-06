@@ -1,5 +1,5 @@
 
-#IP Management System
+## IP Management System
 
 a simple IP management system developed using Python, Sqlachemy. Intended to be very minimal only 3 depdendency and you are good to go.
 
@@ -11,15 +11,6 @@ a simple IP management system developed using Python, Sqlachemy. Intended to be 
 - Displays stats related to vlan and subnets.
 - Displays stats related to clients and shows ip information.
 
-
-
-
-
-**Table of Contents**
-
-[TOCM]
-
-[TOC]
 
 ### System prerequisits
 
