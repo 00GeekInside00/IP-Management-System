@@ -42,6 +42,11 @@ Not done yet :(
 
 ![Screenshot2](https://i.postimg.cc/Bb4WTcnQ/Screenshot.png "interface")
 
+### Docs
+ You can easily browse project more thorough documentation using pydoc.
+ first make sure you are on the project root directory then run `python -m pydoc -b`
+ a local server will start and you will be prompted to docs through your brower.
+
 ### installation
 - go to the root directory of the project and run `pip install -r requiremnts.txt`
 - make sure you are on the root directory then run `python main.py`
